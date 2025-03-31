@@ -1,10 +1,8 @@
-
 # Walkthrough
 
-<video width="600" controls>
-  <source src="./walkthrough.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch Walkthrough](https://img.youtube.com/vi/27TbMu9aaGA/0.jpg)](https://youtube.com/shorts/27TbMu9aaGA)
+
+
 
 <!-- > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
